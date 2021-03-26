@@ -37,36 +37,37 @@
 然后退出学舍回到thor，停止抓包
 选择最新的抓包记录
 
+![image](https://user-images.githubusercontent.com/64725245/112617148-724cfd80-8dd9-11eb-95a7-44f27e91fd64.png)
 
-![image](https://user-images.githubusercontent.com/64725245/112616824-0a96b280-8dd9-11eb-9eee-d51f928b0242.png)
+
 
 
 
 点进去，搜索pdf
+![image](https://user-images.githubusercontent.com/64725245/112617170-77aa4800-8dd9-11eb-973f-25fb0b36b202.png)
 
+![image](https://user-images.githubusercontent.com/64725245/112617179-7b3dcf00-8dd9-11eb-9a5f-3b66beed573e.png)
 
-![image](https://user-images.githubusercontent.com/64725245/112616840-0ff3fd00-8dd9-11eb-9e0f-4979c73613a1.png)
-
-![image](https://user-images.githubusercontent.com/64725245/112616858-15e9de00-8dd9-11eb-8e13-e3edb430ade3.png)
 
 点击进入
 
  - 选择响应
 
-![image](https://user-images.githubusercontent.com/64725245/112616872-1a15fb80-8dd9-11eb-9cf9-e2e5644448e8.png)
+![image](https://user-images.githubusercontent.com/64725245/112617194-809b1980-8dd9-11eb-86d9-8cb88ea52bcf.png)
+
 
 点击pdf
-![image](https://user-images.githubusercontent.com/64725245/112616911-239f6380-8dd9-11eb-85af-42df99938331.png)
-![image](https://user-images.githubusercontent.com/64725245/112616933-28fcae00-8dd9-11eb-8eec-604ac339be50.png)
+![image](https://user-images.githubusercontent.com/64725245/112617211-855fcd80-8dd9-11eb-8191-9c20a89ea2d1.png)
 
 进入后点击右上角
 
-![image](https://user-images.githubusercontent.com/64725245/112616944-2d28cb80-8dd9-11eb-9a2c-75e962753e10.png)
+![image](https://user-images.githubusercontent.com/64725245/112617222-885abe00-8dd9-11eb-8142-108f8388ecd9.png)
 
 选择导出文件
 
 
-![image](https://user-images.githubusercontent.com/64725245/112616978-3a45ba80-8dd9-11eb-9bc5-646af3cefe47.png)
+![image](https://user-images.githubusercontent.com/64725245/112617250-914b8f80-8dd9-11eb-98bd-705d22eb142e.png)
+
 
 
 
